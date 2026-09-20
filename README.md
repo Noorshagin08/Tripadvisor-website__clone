@@ -27,6 +27,4 @@ This project was created to practice HTML and CSS concepts such as Flexbox, layo
 
 - Home Page
 
-## Author
 
-Noor Shagin
